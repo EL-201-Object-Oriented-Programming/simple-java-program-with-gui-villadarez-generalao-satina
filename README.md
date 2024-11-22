@@ -1,9 +1,10 @@
 GROUP 9 (VILLADAREZ, GENEERALAO, SATINA)
 The project was developed using NetBeans IDE, with XAMPP serving as the database solution.
 Should you encounter any issues with the database connection, please do not hesitate to inform us.
+
 SETTING UP DATABASE
 1. Download the bangko.sql file in the repository
-2.Install XAMPP
+2. Install XAMPP
 3. Open XAMPP
 4. Click the "Start" button on Apache and MySQL
 5. Then click "Admin" button on MySQL this should take you to phpMyAdmin
